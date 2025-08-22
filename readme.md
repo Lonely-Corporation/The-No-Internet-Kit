@@ -4,4 +4,4 @@ This is a collection of games, tools and resources that you can use when the int
 
 ## Credits:
 
-**Gams:** https://github.com/Gams-Offline
+**Gams:** https://github.com/Gams-Offline/Gams
